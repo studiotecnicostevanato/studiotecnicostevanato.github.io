@@ -45,8 +45,8 @@ main {
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 1.2em;
-	font-weight: 600;
+	font-size: 1.1em;
+	font-weight: 900;
 	padding: 1.2em;
 }
 
@@ -60,6 +60,15 @@ main > .services {
 	font-size: 1.2rem;
 	margin: 0.3rem 0;
 	font-weight: 100;
+}
+
+main > .paragraph {
+	font-size: 1.1rem;
+	margin: 0.3rem 0;
+	font-weight: 900;
+	margin-left:15%;
+	margin-right:15%;
+	line-height: 1.6rem;
 }
 
 main > .box {
